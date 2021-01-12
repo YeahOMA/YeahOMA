@@ -9,10 +9,10 @@ Gmail: omadude420@gmail.com
 Discord: ThatOMA#6969
 
 ### Accomplishments in life:
-Skidded KAMIBlue
+> Skidded KAMIBlue
 
-Got an A in a math test before
+> Got an A in a math test before
 
-Set up a JDK
+> Set up a JDK
 
-I know how to run ./gradlew build
+> I know how to run ./gradlew build
