@@ -16,3 +16,11 @@ Discord: ThatOMA#6969
 > Set up a JDK
 
 > I know how to run ./gradlew build
+
+### Currently working on:
+> # WaifuHack
+> A very good 1.12.2 hacked client that isn't a Kami skid
+
+> # Brownware
+> A very good 2b2t client with working Queue Skip and AutoDupe
+
