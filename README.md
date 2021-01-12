@@ -1,4 +1,4 @@
-# I'm a nerd that likes fried chicken
+# I'm a nerd 
 
 ### I'm currently learning Java 
 don't bully me pls
