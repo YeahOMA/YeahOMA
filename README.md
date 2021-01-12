@@ -22,5 +22,5 @@ Discord: ThatOMA#6969
 > A very good 1.12.2 hacked client that isn't a Kami skid
 
 > # Brownware
-> A very good 2b2t client with working Queue Skip and AutoDupe
+> A very good 2b2t client with working Queue Skip and AutoDupe that is not a Kami skid
 
