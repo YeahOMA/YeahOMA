@@ -1,4 +1,4 @@
-# I'm a nerd 
+# welcome to my github.
 
 ### I'm currently learning Java 
 don't bully me pls
