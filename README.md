@@ -24,3 +24,6 @@ Discord: ThatOMA#6969
 > # Brownware
 > A very good 2b2t client with working Queue Skip and AutoDupe that is not a Kami skid
 
+> # Cracking ChungusHack
+> If it is even real lol
+
