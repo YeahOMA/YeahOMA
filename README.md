@@ -6,7 +6,7 @@ don't bully me pls
 ### Contacts:
 Gmail: omadude420@gmail.com 
 
-Discord: ThatOMA#6969
+Discord: NotOMA#4918
 
 ### Accomplishments in life:
 > Skidded KAMIBlue
