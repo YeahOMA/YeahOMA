@@ -1,4 +1,4 @@
-# Welcome to my GitHuh
+# Welcome to my GitHub
 
 ### I'm currently learning Java 
 
