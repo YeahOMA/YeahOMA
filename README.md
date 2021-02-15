@@ -12,7 +12,4 @@ Discord: NotOMA#4918
 > # omaHack
 > 1.12.2 pvp client 
 
-> # omaBackdoor
-> Intuitive Java Backdoor
-
 
