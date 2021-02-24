@@ -2,6 +2,7 @@
 
 ### I'm currently learning Java 
 
+I make a lot of stuff
 
 ### Contacts:
 Gmail: omadude420@gmail.com 
