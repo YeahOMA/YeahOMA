@@ -10,7 +10,7 @@ Gmail: omadude420@gmail.com
 Discord: NotOMA#4918
 
 ### Currently working on:
-> # omaHack
+> # stellar
 > 1.12.2 pvp client 
 
 
